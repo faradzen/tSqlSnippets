@@ -1,3 +1,6 @@
+--------------------------------
+-- example for select some tree
+--------------------------------
 with tree (Name, Id, PId, [Level_], Pathroot, MainRootId) --level, pathstr)
 as (select Name, 
 		Id, 
